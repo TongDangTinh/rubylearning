@@ -1,0 +1,6 @@
+# Logfile created on 2020-03-07 21:36:02 +0700 by logger.rb/66358
+D, [2020-03-07T21:36:02.482663 #9126] DEBUG -- : Numerator: 10, denominator 2
+D, [2020-03-07T21:37:10.716546 #9168] DEBUG -- : Numerator: 10, denominator 2
+D, [2020-03-07T21:37:31.412482 #9190] DEBUG -- : Numerator: 10, denominator 2
+D, [2020-03-07T21:37:31.412590 #9190] DEBUG -- : Numerator: 2, denominator 0
+E, [2020-03-07T21:37:31.412628 #9190] ERROR -- : Error in division! : divided by 0
